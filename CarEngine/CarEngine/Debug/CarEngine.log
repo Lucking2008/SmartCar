@@ -1,0 +1,91 @@
+﻿  NeuralNetwork.cpp
+NeuralNetwork.cpp(6): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+NeuralNetwork.cpp(7): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+NeuralNetwork.cpp(119): warning C4018: '<': no coinciden signed/unsigned
+NeuralNetwork.cpp(194): warning C4018: '<': no coinciden signed/unsigned
+NeuralNetwork.cpp(249): warning C4018: '<': no coinciden signed/unsigned
+NeuralNetwork.cpp(296): warning C4018: '<': no coinciden signed/unsigned
+NeuralNetwork.cpp(301): warning C4018: '<': no coinciden signed/unsigned
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(274): warning C4793: 'Eigen::internal::pstore<double,__m128d>': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(279): warning C4793: 'Eigen::internal::pstoreu<double,__m128d>': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(280): warning C4793: 'Eigen::internal::pstoreu<double,__m128d>': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(114): warning C4793: 'Eigen::internal::pset1<__m128d>': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(220): warning C4793: 'Eigen::internal::pload<__m128d>': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(251): warning C4793: 'Eigen::internal::ploadu<__m128d>': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(394): warning C4793: 'Eigen::internal::predux<__m128d>': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(394): warning C4793: 'Eigen::internal::predux<__m128d>': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(602): warning C4793: 'Eigen::internal::palign_impl<1,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(602): warning C4793: 'Eigen::internal::palign_impl<1,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(602): warning C4793: 'Eigen::internal::palign_impl<1,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(602): warning C4793: 'Eigen::internal::palign_impl<1,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(603): warning C4793: 'Eigen::internal::palign_impl<1,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(603): warning C4793: 'Eigen::internal::palign_impl<1,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(603): warning C4793: 'Eigen::internal::palign_impl<1,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(603): warning C4793: 'Eigen::internal::palign_impl<1,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(602): warning C4793: 'Eigen::internal::palign_impl<2,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(602): warning C4793: 'Eigen::internal::palign_impl<2,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(602): warning C4793: 'Eigen::internal::palign_impl<2,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(602): warning C4793: 'Eigen::internal::palign_impl<2,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(603): warning C4793: 'Eigen::internal::palign_impl<2,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(603): warning C4793: 'Eigen::internal::palign_impl<2,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(603): warning C4793: 'Eigen::internal::palign_impl<2,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(603): warning C4793: 'Eigen::internal::palign_impl<2,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(602): warning C4793: 'Eigen::internal::palign_impl<3,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(602): warning C4793: 'Eigen::internal::palign_impl<3,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(602): warning C4793: 'Eigen::internal::palign_impl<3,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(602): warning C4793: 'Eigen::internal::palign_impl<3,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(603): warning C4793: 'Eigen::internal::palign_impl<3,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(603): warning C4793: 'Eigen::internal::palign_impl<3,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(603): warning C4793: 'Eigen::internal::palign_impl<3,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(603): warning C4793: 'Eigen::internal::palign_impl<3,__m128d>::run': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(311): warning C4793: 'Eigen::internal::pfirst<__m128d>': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(123): warning C4793: 'Eigen::internal::padd<__m128d>': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(150): warning C4793: 'Eigen::internal::pmul<__m128d>': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(334): warning C4793: 'Eigen::internal::pabs<__m128d>': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(334): warning C4793: 'Eigen::internal::pabs<__m128d>': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(335): warning C4793: 'Eigen::internal::pabs<__m128d>': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(168): warning C4793: 'Eigen::internal::pdiv<__m128d>': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+c:\tfs\smartcar\carengine\carengine\include\eigen\src\core\arch\sse\packetmath.h(127): warning C4793: 'Eigen::internal::psub<__m128d>': función compilada como nativa :
+  	Se encontró un elemento intrínseco no admitido en código administrado
+  Car.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  CarEngine.vcxproj -> C:\TFS\SmartCar\CarEngine\Debug\CarEngine.exe
+  CarEngine.vcxproj -> C:\TFS\SmartCar\CarEngine\Debug\CarEngine.pdb (Partial PDB)
